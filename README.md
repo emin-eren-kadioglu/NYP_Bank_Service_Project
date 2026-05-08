@@ -49,14 +49,14 @@ Projeyi kendi bilgisayarınızda derlemek ve çalıştırmak için bilgisayarın
 
 1. Projeyi bilgisayarınıza klonlayın:
 ```bash
-git clone [https://github.com/KULLANICI_ADIN/PROJE_REPOSU_ADI.git](https://github.com/KULLANICI_ADIN/PROJE_REPOSU_ADI.git)
+git clone [https://github.com/emin-eren-kadioglu/NYP_Bank_Service_Project.git](https://github.com/KULLANICI_ADIN/PROJE_REPOSU_ADI.git)
 
 ```
 
 
 2. Proje dizinine gidin ve kaynak kodların bulunduğu `src` klasörüne geçiş yapın:
 ```bash
-cd PROJE_REPOSU_ADI/src
+cd NYP_Bank_Service_Project/src
 
 ```
 
