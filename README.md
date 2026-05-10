@@ -49,7 +49,7 @@ Projeyi kendi bilgisayarınızda derlemek ve çalıştırmak için bilgisayarın
 
 1. Projeyi bilgisayarınıza klonlayın:
 ```bash
-git clone [https://github.com/emin-eren-kadioglu/NYP_Bank_Service_Project.git](https://github.com/KULLANICI_ADIN/PROJE_REPOSU_ADI.git)
+git clone https://github.com/emin-eren-kadioglu/NYP_Bank_Service_Project.git
 
 ```
 
